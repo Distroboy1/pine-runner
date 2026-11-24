@@ -20,5 +20,8 @@
   },
   "dependencies": {
     "pinets": "0.9.27"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
   }
 }
